@@ -1120,6 +1120,19 @@ form input[type="submit"]:focus {
     font-weight: 400;
 }
 
+
+/* cart items */
+.cart-page{
+  margin: 80px auto;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+
+
+
 http://kute-themes.com/html/boutique/html/index.html
 https://template.hasthemes.com/noraure/noraure/index.html
 https://preview.hasthemes.com/xoss-preview/xoss/index.html
